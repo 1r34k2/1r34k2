@@ -6,11 +6,7 @@
   <img align="left" alt="1r34k2's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<br>
-
-Привет, меня зовут Ирек, я студент. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
-
-<br>
+<p><br><br>Привет, меня зовут Ирек, я студент. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.<br></p>
 
   
 **Languages and Tools:**  
